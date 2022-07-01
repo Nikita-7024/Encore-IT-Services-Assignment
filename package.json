@@ -1,0 +1,36 @@
+{
+  "name": "encore-it-services-assignment",
+  "version": "1.0.0",
+  "description": "encore it service ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon indcex.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikita-7024/Encore-IT-Services-Assignment.git"
+  },
+  "keywords": [
+    "encire",
+    "it",
+    "services"
+  ],
+  "author": "nikita singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikita-7024/Encore-IT-Services-Assignment/issues"
+  },
+  "homepage": "https://github.com/Nikita-7024/Encore-IT-Services-Assignment#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1166.0",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.18",
+    "sequelize": "^6.21.2"
+  }
+}
